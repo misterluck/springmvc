@@ -8,10 +8,10 @@
 
 </head>
 <body>
-<form action="/test" method="post">
-    <label>username:</label><input type="text" name="username"><br>
-    <label>password:</label><input type="text" name="password"><br>
-    <input type="submit" value="submit">
-</form>
+    <form action="/test" method="post">
+        <label>username:</label><input type="text" name="username"><br>
+        <label>password:</label><input type="text" name="password"><br>
+        <input type="submit" value="submit">
+    </form>
 </body>
 </html>
